@@ -1,6 +1,6 @@
 # Clipjar privacy policy
 
-_Last updated: 29 October 2026_
+_Last updated: 1 November 2026_
 
 Clipjar is a clipboard history app for Windows. This policy explains, in plain
 words, what happens to your information. The short version: **everything stays
@@ -9,7 +9,7 @@ on your PC, and nobody (including us) ever sees it.**
 ## What Clipjar stores
 
 Clipjar saves the things you copy, so you can paste them again later: text,
-links, rich text, images (if you turn image saving on), lists of copied files,
+links, rich text, images (with Clipjar Pro, if image saving is on), lists of copied files,
 and the name of the app you copied from. It also stores your Clipjar settings.
 
 All of it is kept in Clipjar's own private folder on your PC
@@ -36,15 +36,15 @@ All of it is kept in Clipjar's own private folder on your PC
 - **Delete** any item, or **Clear history** in Settings, at any time.
 - **Auto-delete**: keep history for a set number of days or items.
 
-## Your Microsoft Store license
+## Your Microsoft Store purchase
 
-Clipjar is sold through the Microsoft Store. To know whether you are in the free
-trial or have bought the app, Clipjar asks Windows for its license. Windows
-answers from the license it keeps on your PC, and the Microsoft Store app keeps
-that license up to date as part of Windows. That exchange is between Windows and
-Microsoft and is covered by the
-[Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement).
-It contains nothing from your clipboard.
+Clipjar is free, and Clipjar Pro is an optional in-app purchase through the Microsoft Store. To know
+whether you own Clipjar Pro, Clipjar asks Windows for its license. Windows answers from the license it
+keeps on your PC, and the Microsoft Store keeps it up to date. To show the price, Clipjar asks the Store
+for it, and if you choose to buy, the Store handles the whole purchase. Clipjar never sees your payment
+details. These exchanges are between Windows and Microsoft, are covered by the
+[Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement), and contain nothing from
+your clipboard.
 
 ## Uninstalling
 
