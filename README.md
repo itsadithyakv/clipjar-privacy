@@ -1,6 +1,6 @@
 # Clipjar privacy policy
 
-_Last updated: 1 November 2026_
+_Last updated: 5 November 2026_
 
 Clipjar is a clipboard history app for Windows. This policy explains, in plain
 words, what happens to your information. The short version: **everything stays
@@ -11,6 +11,13 @@ on your PC, and nobody (including us) ever sees it.**
 Clipjar saves the things you copy, so you can paste them again later: text,
 links, rich text, images (with Clipjar Pro, if image saving is on), lists of copied files,
 and the name of the app you copied from. It also stores your Clipjar settings.
+
+In Clipjar Free you see your newest 20 copies (plus anything pinned). Older
+copies are not deleted straight away: Clipjar keeps up to 1,000 of them, for up
+to 90 days, locked, so that buying Clipjar Pro brings your history back. They
+stay on your PC like everything else. You can turn this off in
+**Settings > History > Keep older copies for Clipjar Pro**, and older copies are
+then deleted; **Clear history** also removes them.
 
 All of it is kept in Clipjar's own private folder on your PC
 (`%LOCALAPPDATA%\Packages\<Clipjar>\LocalState`). You can open that folder from
